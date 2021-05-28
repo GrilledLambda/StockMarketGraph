@@ -1,0 +1,14 @@
+C:\Users\Peter\source\repos\StockTest\StockTest\bin\Debug\StockTest.exe.config
+C:\Users\Peter\source\repos\StockTest\StockTest\bin\Debug\StockTest.exe
+C:\Users\Peter\source\repos\StockTest\StockTest\bin\Debug\StockTest.pdb
+C:\Users\Peter\source\repos\StockTest\StockTest\obj\Debug\StockTest.csproj.AssemblyReference.cache
+C:\Users\Peter\source\repos\StockTest\StockTest\obj\Debug\StockTest.Form1.resources
+C:\Users\Peter\source\repos\StockTest\StockTest\obj\Debug\StockTest.Properties.Resources.resources
+C:\Users\Peter\source\repos\StockTest\StockTest\obj\Debug\StockTest.csproj.GenerateResource.cache
+C:\Users\Peter\source\repos\StockTest\StockTest\obj\Debug\StockTest.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\StockTest\StockTest\obj\Debug\StockTest.exe
+C:\Users\Peter\source\repos\StockTest\StockTest\obj\Debug\StockTest.pdb
+C:\Users\Peter\source\repos\StockTest\StockTest\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Peter\source\repos\StockTest\StockTest\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Peter\source\repos\StockTest\StockTest\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Peter\source\repos\StockTest\StockTest\obj\Debug\StockTest.csproj.CopyComplete
